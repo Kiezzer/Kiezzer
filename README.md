@@ -4,7 +4,7 @@
 Kiezzer P. Dela Cruz
 
 ## 🎓 Education
-[New Era University BSIS(2023-Present)]
+New Era University BS Information System (2023-Present)
 
 ## 🏅 Certifications
 - SQL and Relational Databases 101 (CognitiveClass.ai)  
