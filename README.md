@@ -11,7 +11,7 @@ New Era University BS Information System (2023-Present)
 (Link below once you finish)
 
 ## 🛠️ Skillsets
-- Java (basic–intermediate)
+- Java 
 - HTML
 - SQL
 - Problem-solving
