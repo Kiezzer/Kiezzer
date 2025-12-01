@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Kiezzer!
 
-<!--
-**Kiezzer/Kiezzer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👤 Name
+Kiezzer P. Dela Cruz
 
-Here are some ideas to get you started:
+## 🎓 Education
+[New Era University BSIS(2023-Present)]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🏅 Certifications
+- SQL and Relational Databases 101 (CognitiveClass.ai)  
+(Link below once you finish)
+
+## 🛠️ Skillsets
+- Java (basic–intermediate)
+- HTML
+- SQL
+- Problem-solving
+- Athlete discipline and physical training
