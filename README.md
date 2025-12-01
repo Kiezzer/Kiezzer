@@ -15,4 +15,4 @@ New Era University BS Information System (2023-Present)
 - HTML
 - SQL
 - Problem-solving
-- Athlete discipline and physical training
+- Athlete discipline
