@@ -1,4 +1,4 @@
-# Hi, I'm Kiez!
+# Hi, I'm Kiezzer!
 
 ## 👤 Name
 Kiezzer P. Dela Cruz
