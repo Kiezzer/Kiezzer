@@ -15,5 +15,7 @@ New Era University BS Information System (2023-Present)
 - Java 
 - HTML
 - SQL
+- Figma
+- UI/UX Designer
 - Problem-solving
 - Athlete discipline
